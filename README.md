@@ -5,6 +5,8 @@ Jadi Tools ini otomatis setiap harinya update.<br>
 # Cara Install
 $ apt update && apt upgrade<br>
 $ apt install python git<br>
+$ pip install requests
+$ pip install bs4
 $ git clone https://github.com/kyo1337/bughttpinjector<br>
 $ cd bughttpinjector<br>
 $ python getbug.py<br>
