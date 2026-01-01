@@ -1,2 +1,107 @@
-import marshal
-exec(marshal.loads(b'\xe3\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x06\x00\x00\x00@\x00\x00\x00s\xc6\x00\x00\x00d\x00d\x01l\x00Z\x00d\x00d\x01l\x01Z\x01d\x00d\x02l\x02m\x03Z\x03\x01\x00d\x00d\x03l\x04m\x05Z\x05m\x06Z\x06\x01\x00d\x04d\x05\x84\x00Z\x07d\x06d\x07\x84\x00Z\x08d\x08d\t\x84\x00Z\te\t\x83\x00\x01\x00e\x07\x83\x00\x01\x00d\nZ\ne\x00\xa0\x0be\n\xa1\x01Z\x0ce\x0cj\rZ\x00e\x03e\x00d\x0b\x83\x02Z\x0ee\x0ej\x0fd\x0cd\rd\x0ei\x01d\x0f\x8d\x02Z\x10e\x08d\x00d\x10\x83\x02\x01\x00e\x11d\x11\x83\x01\x01\x00e\x12d\x00d\x12\x83\x02D\x00]\x1cZ\x13e\x11d\x13\xa0\x14e\x10e\x13\x19\x00j\x15\xa0\x16\xa1\x00\xa1\x01\x83\x01\x01\x00q\x9ce\x11d\x11\x83\x01\x01\x00d\x01S\x00)\x14\xe9\x00\x00\x00\x00N)\x01\xda\rBeautifulSoup)\x02\xda\x06system\xda\x04namec\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00C\x00\x00\x00s<\x00\x00\x00t\x00d\x01\x83\x01\x01\x00t\x00d\x02\x83\x01\x01\x00t\x00d\x01\x83\x01\x01\x00t\x00d\x03\x83\x01\x01\x00t\x00d\x04\x83\x01\x01\x00t\x00d\x05\x83\x01\x01\x00t\x00d\x01\x83\x01\x01\x00d\x00S\x00)\x06Nz/###############################################z/#     Tools Link Bug Fresh For Injector       #z/# Create By : Kyuoko                          #z/# Code : Python                               #z/# Thx To UKL-TEAM, GFS-TEAM, AND YOU          #)\x01\xda\x05print\xa9\x00r\x06\x00\x00\x00r\x06\x00\x00\x00\xda\x00\xda\x06banner\x07\x00\x00\x00s\x0e\x00\x00\x00\x00\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01\x08\x01r\x08\x00\x00\x00c\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x05\x00\x00\x00\x06\x00\x00\x00C\x00\x00\x00sZ\x00\x00\x00|\x00d\x01\x14\x00|\x01\x17\x00}\x02|\x02rPt\x00|\x02d\x01\x83\x02\\\x02}\x03}\x04t\x01d\x02|\x03d\x03\x9b\x04d\x04|\x04d\x03\x9b\x04\x9d\x03\x17\x00d\x05d\x06\x8d\x02\x01\x00t\x02\xa0\x03d\x07\xa1\x01\x01\x00|\x02d\x078\x00}\x02q\x0ct\x01\x83\x00\x01\x00d\x00S\x00)\x08N\xe9<\x00\x00\x00z\x17[~] Loading Get Link : Z\x0302d\xfa\x01:\xfa\x01\r)\x01\xda\x03end\xe9\x01\x00\x00\x00)\x04\xda\x06divmodr\x05\x00\x00\x00\xda\x04time\xda\x05sleep)\x05Z\x0cstart_minuteZ\x0cstart_secondZ\x0ctotal_secondZ\x04minsZ\x04secsr\x06\x00\x00\x00r\x06\x00\x00\x00r\x07\x00\x00\x00\xda\x05Timer\x10\x00\x00\x00s\x0e\x00\x00\x00\x00\x01\x0c\x01\x04\x01\x0e\x01\x1e\x01\n\x01\n\x01r\x11\x00\x00\x00c\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00C\x00\x00\x00s\x1e\x00\x00\x00t\x00d\x01k\x02r\x12t\x01d\x02\x83\x01}\x00n\x08t\x01d\x03\x83\x01}\x00d\x00S\x00)\x04N\xda\x02nt\xda\x03cls\xda\x05clear)\x02r\x04\x00\x00\x00r\x03\x00\x00\x00)\x01\xda\x01_r\x06\x00\x00\x00r\x06\x00\x00\x00r\x07\x00\x00\x00r\x14\x00\x00\x00\x1a\x00\x00\x00s\x06\x00\x00\x00\x00\x02\x08\x01\n\x03r\x14\x00\x00\x00z\x1chttp://atsameip.intercode.caz\x0bhtml.parser\xda\x01aZ\x05classZ\x08point_in)\x01Z\x05attrs\xe9\n\x00\x00\x00z/-----------------------------------------------\xe9\x0f\x00\x00\x00z\x03{0})\x17Z\x08requestsr\x0f\x00\x00\x00Z\x03bs4r\x02\x00\x00\x00\xda\x02osr\x03\x00\x00\x00r\x04\x00\x00\x00r\x08\x00\x00\x00r\x11\x00\x00\x00r\x14\x00\x00\x00Z\x03url\xda\x03get\xda\x01rZ\x07contentZ\x04soupZ\x07findAllZ\x03bugr\x05\x00\x00\x00\xda\x05range\xda\x01x\xda\x06format\xda\x04text\xda\x05stripr\x06\x00\x00\x00r\x06\x00\x00\x00r\x06\x00\x00\x00r\x07\x00\x00\x00\xda\x08<module>\x01\x00\x00\x00s$\x00\x00\x00\x08\x01\x08\x01\x0c\x01\x10\x03\x08\t\x08\n\x08\t\x06\x01\x06\x01\x04\x03\n\x02\x06\x02\n\x02\x12\x02\n\x01\x08\x01\x0e\x01\x1a\x01'))
+#!/usr/bin/env python3
+import requests
+from bs4 import BeautifulSoup
+import sys
+import time
+import os
+import random
+
+# Colors for terminal output
+class Colors:
+    HEADER = '\033[95m'
+    BLUE = '\033[94m'
+    CYAN = '\033[96m'
+    GREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
+def clear_screen():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+def banner():
+    clear_screen()
+    print(f"{Colors.CYAN}{Colors.BOLD}")
+    print("╔══════════════════════════════════════════════════════════════╗")
+    print("║   🐞 BUG HTTP INJECTOR FRESH GETTER - POWERFUL EDITION 🚀    ║")
+    print("╚══════════════════════════════════════════════════════════════╝")
+    print(f"{Colors.GREEN}")
+    print("  Author       : Z3R0-K")
+    print("  Organization : Mari Partner")
+    print("  Github       : hndko")
+    print(f"{Colors.CYAN}")
+    print("  [ NOTE ] : Auto scraping fresh bugs for your injection needs.")
+    print(f"{Colors.ENDC}")
+    print("=" * 64)
+    print()
+
+def typing_print(text):
+    for char in text:
+        sys.stdout.write(char)
+        sys.stdout.flush()
+        time.sleep(0.02)
+    print()
+
+def get_bugs():
+    url = "https://atsameip.intercode.ca/"
+
+    print(f"{Colors.WARNING} [⏳] Connecting to server... {url}{Colors.ENDC}")
+
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36'
+        }
+        response = requests.get(url, headers=headers, timeout=10)
+
+        if response.status_code == 200:
+            print(f"{Colors.GREEN} [✅] Connected Successfully!{Colors.ENDC}\n")
+
+            soup = BeautifulSoup(response.text, 'html.parser')
+
+            # This logic depends on the website structure.
+            # Assuming we are looking for links or a specific list.
+            # Based on 'Recent Queries' or similar sections.
+
+            links = []
+            # Gather all links that look like domains (simplified logic)
+            for a in soup.find_all('a', href=True):
+                href = a['href']
+                text = a.text.strip()
+                if text and '.' in text and not text.startswith('http'):
+                    links.append(text)
+                elif 'http' in href:
+                     # sometimes the text is empty or different, check href
+                     pass
+
+            # Filter duplicates
+            links = list(set(links))
+
+            if links:
+                print(f"{Colors.BOLD}[🚀] Found {len(links)} Potential Bugs:{Colors.ENDC}")
+                print("-" * 40)
+                for i, link in enumerate(links):
+                    # Aesthetic delay effect
+                    if i < 20: # Limit output or full list
+                        sys.stdout.write(f"{Colors.BLUE} [{i+1}] 🐛 {link} {Colors.ENDC}\n")
+                        time.sleep(0.05)
+                    else:
+                        sys.stdout.write(f"{Colors.BLUE} [{i+1}] 🐛 {link} {Colors.ENDC}\n")
+                print("-" * 40)
+                print(f"{Colors.GREEN} [🎉] Done! Happy Injecting. {Colors.ENDC}")
+            else:
+                print(f"{Colors.FAIL} [❌] No bugs found on the page. Structure might have changed.{Colors.ENDC}")
+
+        else:
+            print(f"{Colors.FAIL} [❌] Failed to retrieve data. Status Code: {response.status_code}{Colors.ENDC}")
+
+    except Exception as e:
+        print(f"{Colors.FAIL} [💥] Error: {str(e)}{Colors.ENDC}")
+
+if __name__ == "__main__":
+    banner()
+    try:
+        get_bugs()
+    except KeyboardInterrupt:
+        print(f"\n{Colors.WARNING} [👋] Exiting... Bye!{Colors.ENDC}")
